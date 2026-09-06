@@ -29,33 +29,33 @@ Sidorna ska följa grundläggande tillgänglighetsprinciper
 ## index.html – Startsida
 Startsidan ska innehålla en kort presentation av dig själv. Här berättar du vem du är, var du kommer ifrån och vad du är intresserad av. Sidan ska innehålla:
 
-- [ ] Minst två rubriknivåer (<h1>, <h2>)
-- [ ] Minst två paragrafer med text (<p>)
-- [ ] Minst en bild på dig själv eller något som representerar dig, med beskrivande alt-text.
+- [x] Minst två rubriknivåer (<h1>, <h2>)
+- [x] Minst två paragrafer med text (<p>)
+- [x] Minst en bild på dig själv eller något som representerar dig, med beskrivande alt-text.
 
 ## hobby.html – Hobbysida
 Den här sidan handlar om ditt valda intresse. Sidan ska innehålla:
 
-- [ ] Minst två bilder med beskrivande alt-texter,
-- [ ] Minst två rubriknivåer (, ),
-- [ ] Minst en paragraf med text där du kortfattat beskriver ditt valda intresse (),
-- [ ] En tabell med relevant innehåll kopplat till ditt intresse, t.ex. en topplista, ett schema eller faktatabell. Den ska innehålla minst fyra kolumner och tre rader,
-- [ ] Tabellen ska ha korrekt struktur med <thead>, <tbody> och <th>,
-- [ ] En extern länk till en relevant webbplats, t.ex. en officiell sida eller Wikipedia, med target="_blank" och rel="noopener".
+- [x] Minst två bilder med beskrivande alt-texter,
+- [x] Minst två rubriknivåer (, ),
+- [x] Minst en paragraf med text där du kortfattat beskriver ditt valda intresse (),
+- [x] En tabell med relevant innehåll kopplat till ditt intresse, t.ex. en topplista, ett schema eller faktatabell. Den ska innehålla minst fyra kolmner och tre rader,
+- [x] Tabellen ska ha korrekt struktur med <thead>, <tbody> och <th>,
+- [x] En extern länk till en relevant webbplats, t.ex. en officiell sida eller Wikipedia, med target="_blank" och rel="noopener".
 
 ## kontakt.html – Kontaktsida
 Kontaktsidan ska innehålla ett kontaktformulär samt en alternativ kontaktväg med länk till e-postadress. Sidan ska innehålla:
 
 Ett kontaktformulär med:
 
-[ ] Minst tre olika typer av inputfält (t.ex. text, email, textarea, checkbox eller radio),
-[ ] Korrekt användning av <label> kopplat till respektive fält med for och id,
-[ ] En skicka-knapp (<button type="submit">).
-[ ] Ett exempel kan vara fält för namn, e-post, meddelande och submit-knapp.
+[x] Minst tre olika typer av inputfält (t.ex. text, email, textarea, checkbox eller radio),
+[x] Korrekt användning av <label> kopplat till respektive fält med for och id,
+[x] En skicka-knapp (<button type="submit">).
+[x] Ett exempel kan vara fält för namn, e-post, meddelande och submit-knapp.
 
 En kort introducerande text med en mailto:-länk, t.ex.:
 
-[ ] "Du kan också nå mig direkt på [student_id@student.miun.se]"
+[x] "Du kan också nå mig direkt på [student_id@student.miun.se]"
 
 ## Krav för godkänt
 För att uppgiften ska anses vara godkänd krävs det att:
