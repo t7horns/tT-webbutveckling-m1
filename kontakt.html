@@ -1,63 +1,62 @@
 <!DOCTYPE html>
 <html lang="sv">
-    
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Min hemsida</title>
-
-</head>
-
-<body>
-    <header>
-        <h1>Min hemsida</h1> 
-
-        <h2>Navigation</h2>
-        <nav>
-            <ul>
-                <li><a href="index.html">Hem</a></li>
-                <li><a href="about.html">Om</a></li>
-                <li><a href="contact.html">Kontakt</a></li>
-            </ul>
-        </nav> 
-    </header>  
-
-
-
-    <main>
-        <h2>Kontaktinformation</h2>
         
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>tT-WOD - Kontakt</title>
+    </head>
 
-        <form>
+    <body>
+        <header>
+            <p>tT-WOD</p>
+            <img src="images/openclipart-vectors-barbell-155218.svg" alt="Logotyp för hemsidan/varumärket" width="128" height="128">
+            <nav>
+                <ul>
+                    <li><a href="index.html">Hem</a></li>
+                    <li><a href="hobby.html">Träning och inspiration</a></li>
+                    <li><a href="kontakt.html">Kontakt</a></li>
+                </ul>
+            </nav> 
+        </header> 
 
-            <label for="name">Namn:</label>
-            <input type="text" id="name" name="name" placeholder="Ditt namn">
-
-            <label for="message">Meddelande:</label>
-            <textarea id="message" name="message" placeholder="Ditt meddelande"></textarea>
-
-            <p>Hur vill du bli kontaktad?</p>
-            <label for="contact-method-email">Email</label>
-            <input type="radio" id="contact-method-email" name="contact-method" value="email">
+        <main>
+            <h1>Kontaktformulär</h1>
             
-            <label for="contact-method-telephone">Telefon</label>
-            <input type="radio" id="contact-method-telephone" name="contact-method" value="telephone">
-
+            <form>
+                <label for="name">Namn:</label>
+                <br>
+                <input type="text" id="name" name="name" placeholder="Ditt namn">
+                <br>            
+                <label for="message">Meddelande:</label>
+                <br>
+                <textarea id="message" name="message" placeholder="Ditt meddelande" rows="7"></textarea>
+                <br>
+                <fieldset>
+                    <legend>Hur vill du bli kontaktad?</legend>
             
-        </form>
-        
+                    <label for="contact-method-email">Email</label>
+                    <input type="radio" id="contact-method-email" name="contact-method" value="email">
+                    
+                    <label for="contact-method-telephone">Telefon</label>
+                    <input type="radio" id="contact-method-telephone" name="contact-method" value="telephone">
+                </fieldset>
+                <br>
+                <button type="submit">Skicka</button>
+            </form>
 
+            <p>Du kan också nå mig direkt på <a href="mailto:placeholder@placeholder.email">placeholder@placeholder.email</a></p>
+        </main>
 
-        <p>Du kan också nå mig direkt <a href="mailto:placeholder@placeholder.email">här</a> (placeholder@placeholder.email)</p>
-    </main>
+        <footer>
+            <hr class="divider">
+            <p>© 2026 Mathias Thorgren</p>
+            <a href="kontakt.html">Kontakt</a>
+            <aside aria-label="projektinformation">
+                <p>OBS: Detta är en fiktiv webbplats skapad för ett skolprojekt.</p>
+            </aside>
+        </footer>
 
-
-</body>
-
-<footer>
-    <p>© 2026 Mathias Thorgren</p>
-    <a href="kontakt.html">Kontakt</a>
-</footer>
-
+    </body>
 
 </html>
