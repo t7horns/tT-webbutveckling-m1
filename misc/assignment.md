@@ -14,17 +14,17 @@ dt224g_fornamn_efternamn/
 ## Gemensamma krav för alla sidor
 Samtliga tre sidor ska innehålla:
 
-- [ ] Korrekt HTML-dokumentstruktur med <!DOCTYPE html>, <html lang="sv">, <head> och <body>,
-- [ ] En <header> med webbplatsens namn - du väljer själv vad din webbplats ska heta.
-- [ ] En <nav> i headern med länkar till alla tre undersidor (index.html, hobby.html och kontakt.html),
-- [ ] En <main> med sidans huvudinnehåll,
-- [ ] En <footer> med en copyright-rad, t.ex. © 2026 Ditt Namn, samt en länk till kontaktsidan.
-- [ ] Samtliga sidor ska valideras utan fel i W3C:s HTML-validator
+- [x] Korrekt HTML-dokumentstruktur med <!DOCTYPE html>, <html lang="sv">, <head> och <body>,
+- [x] En <header> med webbplatsens namn - du väljer själv vad din webbplats ska heta.
+- [x] En <nav> i headern med länkar till alla tre undersidor (index.html, hobby.html och kontakt.html),
+- [x] En <main> med sidans huvudinnehåll,
+- [x] En <footer> med en copyright-rad, t.ex. © 2026 Ditt Namn, samt en länk till kontaktsidan.
+- [x] Samtliga sidor ska valideras utan fel i W3C:s HTML-validator
 
 Sidorna ska följa grundläggande tillgänglighetsprinciper 
-— [ ] semantiska element
-- [ ] alt-texter på bilder
-- [ ] korrekt formulär- och tabellstruktur
+— [x] semantiska element
+- [x] alt-texter på bilder
+- [x] korrekt formulär- och tabellstruktur
 
 ## index.html – Startsida
 Startsidan ska innehålla en kort presentation av dig själv. Här berättar du vem du är, var du kommer ifrån och vad du är intresserad av. Sidan ska innehålla:
@@ -60,8 +60,8 @@ En kort introducerande text med en mailto:-länk, t.ex.:
 ## Krav för godkänt
 För att uppgiften ska anses vara godkänd krävs det att:
 
-- [ ] Alla tre sidor är skapade enligt instruktionerna ovan,
-- [ ] Navigeringen fungerar korrekt mellan samtliga sidor,
-- [ ] Sidorna följer grundläggande tillgänglighetsprinciper,
-- [ ] Samtliga sidor validerar utan fel i W3C:s HTML-validator,
-- [ ] Momentet ska lämnas in som en komprimerad fil i zip-format (ej rar, 7zip eller annat) innehållande samtliga undersidor och bilder. Döp filen med strukturen dt224g_fornamn_efternamn.av u
+- [x] Alla tre sidor är skapade enligt instruktionerna ovan,
+- [x] Navigeringen fungerar korrekt mellan samtliga sidor,
+- [x] Sidorna följer grundläggande tillgänglighetsprinciper,
+- [x] Samtliga sidor validerar utan fel i W3C:s HTML-validator,
+- [x] Momentet ska lämnas in som en komprimerad fil i zip-format (ej rar, 7zip eller annat) innehållande samtliga undersidor och bilder. Döp filen med strukturen dt224g_fornamn_efternamn.av u
